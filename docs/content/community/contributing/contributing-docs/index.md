@@ -95,8 +95,9 @@ There are 5 types of docs in Radius:
 
 1. **Concept** - A concept doc is a high-level overview of the project or an area of the project.
 2. **Overview** - A overview page documents a specific feature or capability of the project, with information on what the feature is and additional context and links on how to use it.
-3. **How-To** - A how-to guide is a step-by-step guide to help the reader achieve a specific task. It assumes the reader has a basic understanding of the project and its concepts. For more information on how-to guides, see [Diátaxis](https://diataxis.fr/how-to-guides/).
-4. **Reference** - A reference doc is a detailed description of a specific feature or capability of the project. It assumes the reader has a basic understanding of the project and its concepts. For more information on reference docs, see [Diátaxis](https://diataxis.fr/reference/).
+3. **Tutorial** - A tutorial is a step-by-step guide for anyone new to the project to learn how to use key features of Radius via hands-on experience
+4. **How-To** - A how-to guide is a step-by-step guide to help the reader achieve a specific task. It assumes the reader has a basic understanding of the project and its concepts. For more information on how-to guides, see [Diátaxis](https://diataxis.fr/how-to-guides/).
+5. **Reference** - A reference doc is a detailed description of a specific feature or capability of the project. It assumes the reader has a basic understanding of the project and its concepts. For more information on reference docs, see [Diátaxis](https://diataxis.fr/reference/).
 
 Overall:
 
