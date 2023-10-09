@@ -8,7 +8,7 @@ weight: 80
 
 Welcome to the Radius community!
 
-## Discussions
+## Discussions and Support
 
 The best way to interact with the community is via the Radius Discord server:
 
@@ -25,7 +25,7 @@ The meeting link and details are sent out via email.
 
 ### Present your topic
 
-To present a specific topic on the next Radius community call start by filling out this short form, [Radius community call presenter sign-up form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw_b7M-8iE1NkIMvs0xAJFFUQlozVThYSzI4OVhRU0E3NlI0U05GNzZFTi4u).
+To present a specific topic on the next Radius community call start by filling out the [Radius community call presenter sign-up form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw_b7M-8iE1NkIMvs0xAJFFUQlozVThYSzI4OVhRU0E3NlI0U05GNzZFTi4u).
 
 ### Calendar
 
@@ -42,8 +42,8 @@ To present a specific topic on the next Radius community call start by filling o
 
 ## GitHub Issues & repositories
 
-If you would like to file Issues, access the source code, or use Codespaces please visit the [Radius GitHub repo] (https://github.com/radius-project).
+To file Issues, access source code, or use Codespaces please visit the [Radius GitHub repo] (https://github.com/radius-project).
 
 ## How can I get involved?
 
-One of the easiest ways to contribute is to participate in discussions at community engagements or via the Discord server referenced above. We are always seeking feedback, especially for suggestions around improving the product and docs.
+One of the easiest ways to contribute is to participate in discussions at community engagements or via the Discord server referenced above. We are always seeking feedback, especially for suggestions around improving the product and documentation.
